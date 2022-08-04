@@ -2,4 +2,4 @@
 
 https://surbhi-sd.github.io/Background-Generator/
 
-![Sanp](snap.jpg)
+![Sanp](https://github.com/Surbhi-SD/Background-Generator/blob/main/snap.JPG)
